@@ -22,6 +22,7 @@ Widget build(BuildContext context){
 
       primaryTextTheme: GoogleFonts.latoTextTheme(),
     ),
+    debugShowCheckedModeBanner: false,
     initialRoute: "/",
     routes: {
       "/":(context)=>LoginPage(),
