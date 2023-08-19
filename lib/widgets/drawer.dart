@@ -9,7 +9,7 @@ class MyDrawer extends StatelessWidget {
   Widget build(BuildContext context) {
     return Drawer(
       child: Container(
-        color:Colors.blue[300],
+        color:Colors.red[300],
         child: ListView(
           padding: EdgeInsets.zero,
           children: [
@@ -48,7 +48,7 @@ class MyDrawer extends StatelessWidget {
             ),
               ListTile(
               leading: Icon(CupertinoIcons.mail, color: Colors.white,),
-              title: Text("Email me",
+              title: Text("Email",
               textScaleFactor: 1.5,
               style: TextStyle(
                 color: Colors.white,
