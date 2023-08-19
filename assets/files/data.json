@@ -1,0 +1,63 @@
+{
+    "hashiras": [
+      {
+        "id": 1,
+        "name": "Giyu Tomioka",
+        "description": "Water Hashira",
+        "image_url": "https://imgs.search.brave.com/fy-0y5-Kq2JxogVi2jzyPveMgYQuTpZewOqDcTKUmEo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/d2FsbHBhcGVyc2Fm/YXJpLmNvbS83Mi8y/OS9FNEZrR28uanBn"
+      },
+      {
+        "id": 2,
+        "name": "Kyojuro Rengoku",
+        "description": "Flame Hashira",
+        "image_url": "https://imgs.search.brave.com/SFQFqET5HwyAbDrzBEJ5H8UJazEwujV75GedeerWYcg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93MC5w/ZWFrcHguY29tL3dh/bGxwYXBlci84NjMv/NDQxL0hELXdhbGxw/YXBlci1reW9qdXJv/LXJlbmdva3UuanBn"
+      },
+      {
+        "id": 3,
+        "name": "Shinobu Kocho",
+        "description": "Insect Hashira",
+        "image_url": "https://imgs.search.brave.com/oID6eVd9lwEMbKSxQNuHSu5NrAm1KzSdw58KKscAHsE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDQ4Mjcz/NjMuanBn"
+      },
+      {
+        "id": 4,
+        "name": "Tengen Uzui",
+        "description": "Sound Hashira",
+        "image_url": "https://imgs.search.brave.com/ARSePu1n96dVq4uuJlPcUFjVFHbkm2MuX68SSIqpJC4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdXBl/cmhlcm9qYWNrZWQu/Yi1jZG4ubmV0L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIxLzA3/L1Rlbmdlbi1VenVp/LVdvcmtvdXQtMi5q/cGVn"
+      },
+      {
+        "id": 5,
+        "name": "Muichiro Tokito",
+        "description": "Mist Hashira",
+        "image_url": "https://imgs.search.brave.com/3ic35cAiY3B05FDSmdEPEMRfg0DImzA0-Y7OH64kynE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/b25lZXNwb3J0cy5n/Zy9jZG4tZGF0YS8y/MDIzLzA1L0FuaW1l/X0RlbW9uU2xheWVy/X011aWNoaXJvVG9r/aXRvX01pc3RIYXNo/aXJhXzItNDUweDI1/My53ZWJw"
+      },
+      {
+        "id": 6,
+        "name": "Tanjuro Kamado",
+        "description": "Former Water Hashira",
+        "image_url": "https://imgs.search.brave.com/VdjiNOgO5EveOV6v4VTRpubtnMcOnL2gDKMItSGXFGA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvZmVhdHVy/ZWQvdGFuamlyby1r/YW1hZG8tenE0ZWxk/MjgwcnZ5c2Ruay5q/cGc"
+      },
+      {
+        "id": 7,
+        "name": "Kanae Kocho",
+        "description": "Flower Hashira",
+        "image_url": "https://imgs.search.brave.com/xhegF7NTa-rgax6JFjtQJ2cQmbDqEEVxEX3ZLN6aCdY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvZmVhdHVy/ZWQva2FuYWUta29j/aG8tM2NrN3QyamJh/bzE2aXY3bS5qcGc"
+      },
+      {
+        "id": 8,
+        "name": "Sanemi Shinazugawa",
+        "description": "Wind Hashira",
+        "image_url": "https://imgs.search.brave.com/Iu-D33oIbkLGSJzGXnK5esJRe8S6WzjOnlJsz95J6Yc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMud2lraWEubm9j/b29raWUubmV0L3Bf/Xy9pbWFnZXMvZi9m/MS9TYW5lbWknc19J/bnRyb2R1Y3Rpb24u/anBnL3JldmlzaW9u/L2xhdGVzdC9zY2Fs/ZS10by13aWR0aC1k/b3duLzMwMD9jYj0y/MDIwMDcxNzIwMzIy/MCZwYXRoLXByZWZp/eD1wcm90YWdvbmlz/dA"
+      },
+      
+      {
+        "id": 9,
+        "name": "Gyomei Himejima",
+        "description": "Stone Hashira",
+        "image_url": "https://imgs.search.brave.com/l0LAlwxziAzgRC2vMYKR0TzJVVUq9MBDVoqmpGky9TU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/bWVyY2hmdXNlLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Mi8wOS9XaG8taXMt/R3lvbWVpLUhpbWVq/aW1hLTgwMHg1MDYu/anBn"
+      }
+      
+     
+     
+    ]
+  }
+  

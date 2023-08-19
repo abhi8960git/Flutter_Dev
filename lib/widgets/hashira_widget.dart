@@ -14,7 +14,7 @@ class HashiraWidget extends StatelessWidget {
         onTap: () {
           
         },
-        leading: Image.network(item.imageUrl,),
+        leading: Image.network(item.image_url,),
         title:Text(item.name),
         subtitle: Text(item.description),
               
