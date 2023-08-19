@@ -1,7 +1,5 @@
 # flutter_application_1
 
-# Last Updated ScreenShot
-![image](https://res.cloudinary.com/dmlaqelqw/image/upload/v1692481427/Screenshot_1692481203_bql81r.png)
 
 A new Flutter project.
 
