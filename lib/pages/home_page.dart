@@ -21,6 +21,7 @@ class _HomePageState extends State<HomePage> {
   }
 
   loadData() async {
+    await Future.delayed(Duration(seconds: 3));
     var json = await rootBundle.loadString("assets/files/data.json");
     var decodedData = jsonDecode(json);
     var hashirasData = decodedData["hashiras"];
@@ -49,14 +50,14 @@ class _HomePageState extends State<HomePage> {
       drawer: MyDrawer(),
       body: Padding(
         padding: const EdgeInsets.all(16.0),
-        child: ListView.builder(
+        child: (HashiraModel.hashiras != null && HashiraModel.hashiras.isNotEmpty) ? ListView.builder(
           itemCount: HashiraModel.hashiras.length,
           itemBuilder: (context, index) {
             return HashiraWidget(
               item: HashiraModel.hashiras[index],
             );
           },
-        ),
+        ): Center(child: CircularProgressIndicator(),)
       ),
     );
   }

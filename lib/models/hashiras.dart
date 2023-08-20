@@ -2,15 +2,17 @@
 import 'dart:convert';
 
 class HashiraModel {
-  static List<Hashira> hashiras = [
-    Hashira(
-      id: 1,
-      name: "Giyu Tomioka",
-      description: "Water Hashira",
-      image_url:
-          "https://imgs.search.brave.com/fy-0y5-Kq2JxogVi2jzyPveMgYQuTpZewOqDcTKUmEo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/d2FsbHBhcGVyc2Fm/YXJpLmNvbS83Mi8y/OS9FNEZrR28uanBn",
-    )
-  ];
+
+  static List<Hashira> hashiras = [];
+  //  = [
+  //   Hashira(
+  //     id: 1,
+  //     name: "Giyu Tomioka",
+  //     description: "Water Hashira",
+  //     image_url:
+  //         "https://imgs.search.brave.com/fy-0y5-Kq2JxogVi2jzyPveMgYQuTpZewOqDcTKUmEo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/d2FsbHBhcGVyc2Fm/YXJpLmNvbS83Mi8y/OS9FNEZrR28uanBn",
+  //   )
+  // ];
 }
 
 class Hashira {
@@ -26,22 +28,7 @@ class Hashira {
     required this.image_url,
   });
 
-//   factory Hashira.fromMap(Map<String, dynamic> map) {
-//     return Hashira(
-//       id: map["id"],
-//       name: map["name"],
-//       description: map["description"],
-//       image_url: map["image_url"],
-//     );
-//   }
-//   // if key is not string then replace with dynamic
 
-//   toMap() => {
-//         "id": id,
-//         "name": name,
-//         "description": description,
-//         "image_url": image_url
-//       };
 
   Hashira copyWith({
     int? id,
